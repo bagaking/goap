@@ -1,3 +1,10 @@
+# IDE
+.idea
+.vscode
+
+# MOD
+vendor
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
